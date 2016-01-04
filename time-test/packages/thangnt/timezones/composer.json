@@ -1,5 +1,6 @@
 {
     "name": "thangnt/timezones",
+    "description": "Test publish package with Laravel",
     "authors": [
         {
             "name": "thangnt",
