@@ -1,0 +1,10 @@
+{
+    "name": "thangnt/timezones",
+    "authors": [
+        {
+            "name": "thangnt",
+            "email": "thangnt@nadia.bz"
+        }
+    ],
+    "require": {}
+}
