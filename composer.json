@@ -2,7 +2,7 @@
     "name": "thangnt/timezones",
     "description": "Test publish package with Laravel",
     "license": "MIT",
-    "keywords": ["timezones","timezone"],
+    "keywords": ["timezones","timezone", "laravel 5.1", "thangnt"],
     "type": "library",
     "authors": [
         {
